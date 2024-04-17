@@ -247,7 +247,18 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 """ 
    # PLEASE DO NOT REMOVE ANY CREDITS ❤️‍🩹
     
-    CAPTION = """ 📂 <i><a href="https://telegram.me/Goldmines_officialy">{file_name}</a></i>\n\n"""
+        CAPTION = """<b>📂ɴᴀᴍᴇ  :   {file_name}
+
+〰️〰️〰️〰️〰️〰️〰️〰️
+╭───🔅 ᴜᴘʟᴏᴀᴅ ʙʏ 🔅 ────╮
+├• ▫️<a href=https://t.me/Goldmines_Officialy>Goldmines Officialy</a>
+╰───────────────────╯
+〰️〰️〰️〰️〰️〰️〰️〰️〰️
+🍁 ғᴏʀ ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs & sᴇʀɪᴇs
+👉🏻 ▫️ <a href=https://t.me/Goldmines_Officialy>Request group add soon</a>
+〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>ʜᴇʏ {message.from_user.mention}, ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ʀᴇꜱᴜʟᴛꜱ ꜰᴏʀ ʏᴏᴜʀ ǫᴜᴇʀʏ {search}.
