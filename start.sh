@@ -6,7 +6,7 @@ else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /TheMovieProviderBot04-24
 fi
-cd /TheMovieProviderBot
+cd /TheMovieProviderBot04-24
 pip3 install -U -r requirements.txt
 echo "Starting TheMovieProviderBot04-24...."
 python3 bot.py
